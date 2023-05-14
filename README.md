@@ -25,4 +25,4 @@
 </div>
 <br></br>
 
-👨‍💻Currently working on: <b>[better-life](https://github.com/Akman13/better-life-app)</b>
+👨‍💻 Currently working on: <b>[better-life](https://github.com/Akman13/better-life-app)</b>
