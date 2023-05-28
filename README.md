@@ -5,6 +5,8 @@
 📌 If you're interested to see what cool projects I've built so far, have a look at the pinned repos just down below and feel free to let me know what you think 
 
 ### Links
+🌐 [Portfolio](https://akman13.github.io/portfolio/)
+
 ✉️ [Email](AkramKMansour@gmail.com)
 
 📋 [Resume](https://drive.google.com/file/d/1TpmjH7kE261_3Y83HJ1S9V-8waVYbHoi/view?usp=sharing)
@@ -26,4 +28,4 @@
 </div>
 <br></br>
 
-👨‍💻 Currently working on: <b>[better-life](https://github.com/Akman13/better-life-app)</b>
+👨‍💻 Currently working on: <b>[TrackAJet](https://github.com/Akman13/trackajet)</b>
